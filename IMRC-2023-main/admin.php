@@ -24,7 +24,7 @@
             <td class="text-primary">ACTION</td>
             </tr>
         </thead>
-
+        
         <tbody>
             <td class="text-white">1</td>
             <td class="text-white">Presentor</td>
@@ -40,3 +40,160 @@
      </section>
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- php open -->
+      
+        
+<!-- //        $sname= "localhost";
+//            $unmae= "root";
+//             $password = "";
+//            $db_name = "test_db";
+
+//            $conn = mysqli_connect($sname, $unmae, $password, $db_name);
+
+       
+//            if (!$conn) {
+//             echo "Connection failed!";
+//         }
+            
+            
+// 		 $sql = "SELECT * FROM users";
+//         $result = mysqli_query($conn, $sql);
+
+//         if(!$result) {
+//              die("Invalid query: " . $connection->error);
+//          }
+
+//          while($row = $result->fetch_assoc()) {
+//             echo "<tr>
+//             <td>" .$row["id"] . "</td>
+//            <td>" .$row["role"] . "</td>
+//           <td>" .$row["user_name"] . "</td>
+//            <td>" .$row["name"] . "</td>
+//            <td>
+//                 <a class='btn btn-success btn-sm' href='update'>View</a>
+//                <a class='btn btn-primary btn-sm' href='update'>Approve</a>
+//              <a class='btn btn-danger btn-sm' href='delete'>Disapprove</a>
+//            </td>
+//           </tr>";
+//          }
+            
+
+           
+// php ending
+
+            
+//         </tbody>
+//      </table>
+//      </section>
+// </body>
+// </html> -->
+
+
+
+
+
+ -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         <!-- <tbody>
+      
+            php start....
+
+            // $sname= "localhost";
+            // $unmae= "root";
+            // $password = "";
+            // $db_name = "test_db";
+
+            // $conn = mysqli_connect($sname, $unmae, $password, $db_name);
+
+            // if ($connection->connection_error){
+            //     die("Connection failed: " .$connection->connection_error);
+            // }
+            
+            
+		// $sql = "SELECT * FROM users WHERE user_name='$uname' AND password='$pass'";
+        // $result = mysqli_query($conn, $sql);
+
+        // if(!$result) {
+        //     die("Invalid query: " . $connection->error);
+        // }
+
+        // while($row = $result->fetch_assoc()) {
+            // echo "<tr>
+            // <td>" .$row['d] . "</td>
+        //     <td>" .$row[role] . "</td>
+        //     <td>" .$row[user_name] . "</td>
+        //     <td>" .$row[Name] . "</td>
+        //     <td>
+        //         <a class='btn btn-success btn-sm' href='update'>View</a>
+        //         <a class='btn btn-primary btn-sm' href='update'>Approve</a>
+        //         <a class='btn btn-danger btn-sm' href='delete'>Disapprove</a>
+        //     </td>
+        //     </tr>";
+        //  } -->
+           
+<!-- php end -->
+
+<!--            
+        </tbody>
+     </table>
+     </section>
+</body>
+</html> -->
